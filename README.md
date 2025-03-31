@@ -1,6 +1,13 @@
 # 💫 ABOUT ME:
 <h1 align="center">
-    <img src = "https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=35&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+!+%F0%9F%91%8B;I'm+Santhosh+%F0%9F%98%8A;Tech+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%8C%90">
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=35&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+!+%F0%9F%91%8B;I'm+Santhosh+%F0%9F%98%8A;Tech+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%8C%90">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=35&duration=3000&pause=1000&color=000000&background=00000000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+!+%F0%9F%91%8B;I'm+Santhosh+%F0%9F%98%8A;Tech+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%8C%90">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=35&duration=3000&pause=1000&color=5C5C5C&background=00000000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+!+%F0%9F%91%8B;I'm+Santhosh+%F0%9F%98%8A;Tech+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%8C%90">
+</picture>
+
 </h1>
 <br>
 <p align="left" style="font-size: 12px;">
