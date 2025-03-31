@@ -42,6 +42,14 @@
 
 ### </> CODING STATS:
 <div align=center>
-<img src="https://leetcard.jacoblin.cool/santhoshperiyasamy?theme=light&font=Castoro&ext=contest">
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://leetcard.jacoblin.cool/santhoshperiyasamy?theme=dark&font=Castoro&ext=contest">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://leetcard.jacoblin.cool/santhoshperiyasamy?theme=light&font=Castoro&ext=contest">
+  <img src="https://leetcard.jacoblin.cool/santhoshperiyasamy?theme=light&font=Castoro&ext=contest" 
+       alt="LeetCode Stats Card">
+</picture>
+
 </div>
 <hr>
