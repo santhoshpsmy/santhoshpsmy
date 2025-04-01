@@ -10,7 +10,7 @@
 
 </h1>
 <br>
-<p align="left" style="font-size: 12px;">
+<p align="left" style="font-size: 15px;">
     🔭 Currently pursuing my undergraduate degree in Electronics and Communication Engineering(ECE).<br>
     👯 Eager to connect with tech enthusiasts.<br>
     🌱 Actively learning DSA to build Strong Foundation.<br>
