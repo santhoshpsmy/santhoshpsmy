@@ -44,12 +44,29 @@
 <div align=center>
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://leetcard.jacoblin.cool/santhoshperiyasamy?theme=dark&font=Castoro&ext=contest">
+          srcset="https://leetcard.jacoblin.cool/santhoshperiyasamy?theme=dark&font=Castoro&ext=heatmap">
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://leetcard.jacoblin.cool/santhoshperiyasamy?theme=light&font=Castoro&ext=contest">
-  <img src="https://leetcard.jacoblin.cool/santhoshperiyasamy?theme=light&font=Castoro&ext=contest" 
+          srcset="https://leetcard.jacoblin.cool/santhoshperiyasamy?theme=light&font=Castoro&ext=heatmap">
+  <img src="https://leetcard.jacoblin.cool/santhoshperiyasamy?theme=light&font=Castoro&ext=heatmap" 
        alt="LeetCode Stats Card">
 </picture>
 
 </div>
+<br>
+<h2>Connect With Me 🔗<h2>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.linkedin.com/in/santhosh-p-6836342bb">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/santhoshperiyasamy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/santhoshperiyas1">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="48" height="48" alt="HackerRank"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-username">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="48" height="48" alt="Twitter"/>
+  </a>
+</div>
+
 <hr>
