@@ -64,9 +64,14 @@
   <a href="https://www.hackerrank.com/santhoshperiyas1">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="48" height="48" alt="HackerRank"/>
   </a>
-  <a href="https://twitter.com/your-twitter-username">
+  <a href="https://x.com/Santhoshh_05?s=09">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="48" height="48" alt="Twitter"/>
   </a>
+  <a href="https://auth.geeksforgeeks.org/user/santhoshperiyasamy">
+    <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="48" height="98" alt="GFG"/>
+  </a>
+
+
 </div>
 
 <hr>
